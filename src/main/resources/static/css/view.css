@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+#div1{
+	
+	margin-left:70px;
+	margin-top:50px;
+}
+
+body{
+	background-color: lightgrey;
+}
+
+
+#myInput {
+
+ 
+  margin-left:1250px;
+  border: 1px solid #ddd; 
+  margin-bottom: 12px; 
+  margin-top:30px;
+}
+
+#myTable{
+	 width: 100%;
+}
+
+#myTable th, #myTable td {
+  text-align: left; 
+  padding: 15px; 
+}
+
+#myTable tr {
+ 
+  border-bottom: 1px solid black;
+}
+
+#myTable tr.header, #myTable tr:hover {
+
+  background-color: #f1f1f1;
+}
+
+
+#srch{
+	margin-left:1150px;
+	
+}
+
+
